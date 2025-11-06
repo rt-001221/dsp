@@ -1,0 +1,4 @@
+Lab1:streamlit run Lab1.py
+
+Lab6: Start the server= python server.py
+Start clients=python client_gui.py
